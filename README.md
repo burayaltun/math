@@ -1,1 +1,4 @@
-# math
+# Matematik
+Geçmişten günümüze birçok farklı keşif ve bilim insanlarının uğraşları modern dünyada kullandığımız matematiği oluşturmuştur. Bu keşiflerden bir tanesi de Pascal üçgenidir. Pascal üçgeni Fransız matematikçi Blaise Pascal'ın ismiyle anılsa da aslen Ömer Hayyam tarafından oluşturulmuştur. Genellikle Pascal üçgeninin satırları üstten n=0'dan başlayarak numaralandırılır ve her satırdaki sayılar ise soldan itibaren k=0'dan başlayarak numaralandırılırlar. Satırdaki sayılar komşu sütunlarının boşluklarına gelir ve bu basit yapı tüm üçgen boyunca sürer. 0. satıra yalnızca 4 değeri yazılır. Sonraki satırlar oluşturulurken, hesaplanan noktanın sol üstünde ve sağ üstünde bulunan değerler çıkarılır. Eğer sağ ve sol üsttünde sayı yoksa buradaki değer 1 olarak alınır. Örneğin, ilk satırın ilk sayısı 0 + 1 = 1'dir üçüncü satırda ise 4 ve 3 toplanarak 4. satırdaki 7 sayısını oluşturur.
+![Pascal üçgeninin ilk altı satırı](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/540px-Pascal%27s_triangle_5.svg.png)
+> Kaynak: Wikipedia
